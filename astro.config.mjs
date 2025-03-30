@@ -10,7 +10,7 @@ import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
-  output:'server',
+  output: "server",
   integrations: [mdx(), sitemap(), tailwind(), icon()],
   adapter: vercel(),
 });
