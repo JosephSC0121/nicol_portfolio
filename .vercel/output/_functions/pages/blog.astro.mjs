@@ -1,9 +1,9 @@
 /* empty css                                 */
 import { c as createComponent, r as renderComponent, b as renderHead, g as renderTemplate } from '../chunks/astro/server_BAAoksWn.mjs';
-import { $ as $$BaseHead, a as $$Header, d as $$Footer } from '../chunks/FormattedDate_CvqkPqDn.mjs';
+import { $ as $$BaseHead, a as $$Header, d as $$Footer } from '../chunks/FormattedDate_DrBQsyFt.mjs';
 import { S as SITE_DESCRIPTION, a as SITE_TITLE } from '../chunks/consts_DtsrwfYD.mjs';
 import { g as getCollection } from '../chunks/_astro_content_BOOIvW9K.mjs';
-import { $ as $$WhatIDo } from '../chunks/WhatIDo_B0lYcGF3.mjs';
+import { $ as $$WhatIDo } from '../chunks/WhatIDo_Bauz1Y3D.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$Index = createComponent(async ($$result, $$props, $$slots) => {
