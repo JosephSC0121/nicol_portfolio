@@ -30,7 +30,7 @@ importers:
         specifier: ^4.0.0
         version: 4.0.17(vite@6.2.3(@types/node@22.13.13)(jiti@2.4.2)(lightningcss@1.29.2)(sass-embedded@1.86.0)(yaml@2.7.0))
       astro:
-        specifier: ^5.1.9
+        specifier: ^5.5.5
         version: 5.5.5(@netlify/blobs@8.1.2)(@types/node@22.13.13)(jiti@2.4.2)(lightningcss@1.29.2)(rollup@4.37.0)(sass-embedded@1.86.0)(typescript@5.8.2)(yaml@2.7.0)
       astro-icon:
         specifier: ^1.1.5
